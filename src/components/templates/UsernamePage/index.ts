@@ -1,1 +1,1 @@
-export * from './AboutPage.template'
+export * from './UsernamePage.template'
